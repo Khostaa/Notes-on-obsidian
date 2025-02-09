@@ -171,7 +171,7 @@ from .normalize import normalize_data
 ```
 
 ## importing between sibling modules
-![[Notes/python/Developing Python packages/package_file_structure.png]]
+![[Notes/YouTube/python/Developing Python packages/package_file_structure.png]]
 - import *mymax*, *mymin* functions from *funcs.py* into *normalize.py*
 ### Absolute import
 

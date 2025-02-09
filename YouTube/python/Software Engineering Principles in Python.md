@@ -80,7 +80,7 @@ help (my_package)
 	- other filenames convention is same as package name.
 	- these other files called **submodules** can be imported as
 
-![[Notes/python/Slides/software engineering principles wtih python/package_file_structure.png]]
+![[Notes/YouTube/python/Slides/software engineering principles wtih python/package_file_structure.png]]
 
 ```python
 import my_package.sub_module_name
