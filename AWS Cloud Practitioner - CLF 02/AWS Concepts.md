@@ -262,7 +262,7 @@ AWS Compute services provide the computing power needed to keep your business ru
 - Unlike databases, which are used for organizing and querying structured data, storage is designed to handle large volumes of data without the need for complex management.
 - It's about securely storing your data and making sure it's available when you need it, on a large scale.
 ## Storage services
-![[AWS storage services.png]]
+![[Notes/AWS Cloud Practitioner - CLF 02/Images/AWS storage services.png]]
 
 ### Understanding storage types
 | Active/Direct Storage                                                                                                                                                          | Archival Storage                                                                                                                                             |
